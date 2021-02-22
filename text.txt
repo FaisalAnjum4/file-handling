@@ -1,1 +1,16 @@
-Hello PHP
+First Name= FAISAL 
+Last Name= ANJUM
+Gender= male
+Email= mr.anjumfaisal@gmail.com
+User Name=FAISAL070499
+Password=12345
+Recovery Email=anjum23@gmail.com
+
+First Name= Abdur
+Last Name= Rahman
+Gender= male
+Email= ar@gmail.com
+User Name=AbdurRahman123
+Password=12345
+Recovery Email=qwe@gmail.com
+
